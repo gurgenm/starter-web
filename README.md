@@ -23,3 +23,9 @@ Sample how to details
 Stagin section difference
 
 ## another section
+
+nice section
+
+### Copyright
+
+2014 Git.Training
