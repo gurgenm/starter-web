@@ -14,9 +14,9 @@ Sample website with plenty of files for demos
 
 Sample deployment instructions
 
-## How to Section
+## How to Contribute
 
-Sample how to details
+Please fork this repo and then issue a Pull Requests for review.
 
 ## Stagin section
 
